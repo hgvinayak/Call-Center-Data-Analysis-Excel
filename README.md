@@ -1,14 +1,17 @@
-Call-Center-Data-Analysis
-
---- 👉This Repository will focus on analyzing the Customer complaint's data in call centers.
-
-✅ Objective: Analysing the customer complaints data for diffrent call centers and providing the insights to make the business decisions.
+# Call Center Data Analysis Project - MS Excel
+This Repository will focus on analyzing the Customer complaint's data in call centers.
 
 
-❗ Domain : Microsoft Excel
+**✅ Objective:** Analysing the customer complaints data for diffrent call centers and providing the insights to make the business decisions.
 
 
-🌱Steps Applied :
+
+**📌Tool Used :** Microsoft Excel
+
+
+
+
+**🌱Steps Applied :**
 1. Get the data into excel .
 2. Understand the complete data and KPI parameters which needs to be focused.
 3. Cleaning the data and transforming the data aby dientifying any missing values, null values, data types, erros etc.
@@ -20,7 +23,7 @@ Call-Center-Data-Analysis
 9. Analysed the highest no of complaints by state, call center, and then understood the customer sentiment for the same.
 
 
-💐Key Takeways:
+**💐Key Takeways:**
 1. Customers are preffering "Call center" channel more than other modes of channesl which is 32%.
 2. Total complaints recieved over the period is 32941.
 3. By looking into the Sentiment wise comaplints, it clearly indicates that Customers are not Happy , need to focus on this and improve.
@@ -31,6 +34,7 @@ Call-Center-Data-Analysis
 
 
 
+<img width="626" alt="Call Center Data Analysis" src="https://github.com/user-attachments/assets/d2f4afe8-6da8-49b3-9e4a-624097a6d823">
 
 
 
